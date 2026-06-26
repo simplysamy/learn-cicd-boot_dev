@@ -1,5 +1,4 @@
-![Tests]
-(https://github.com/simplysamy/learn-cicd-boot_dev/actions/workflows/ci.yml/badge.svg)
+![Tests] (https://github.com/simplysamy/learn-cicd-boot_dev/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
